@@ -1,0 +1,198 @@
+body {
+	background-color: black;
+	background-image: url("images/classroomwcbB.png");
+	background-size: 1150px;
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-position: "center top";
+}
+
+a {
+	color: yellow;
+}
+
+#container {
+	color: white;
+	position: absolute;
+	left: 55px;
+	top: 95px;
+	width: 800px;
+	height: 400px;
+	overflow: auto;
+}
+
+#content {
+	padding-right: 10px;
+}
+
+#logo {
+	color: white;
+	position: absolute;
+	left: 935px;
+	top: 60px;
+	text-align: center;
+}
+
+#home-button {
+	background-image: url("images/homeB.png");
+	width: 84px;
+	height: 122px;
+	position: absolute;
+	left: 950px;
+	top: 200px;
+}
+
+#home-button:hover {
+	background-image: url("images/HOMEICON.PNG");
+	width: 84px;
+	height: 122px;
+	position: absolute;
+	left: 950px;
+	top: 200px;
+}
+
+#home-button-active {
+	background-image: url("images/HOMEICON.PNG");
+	width: 84px;
+	height: 122px;
+	position: absolute;
+	left: 950px;
+	top: 200px;
+}
+
+#news-button {
+	background-image: url("images/newsB.png");
+	width: 100px;
+	height: 74px;
+	position: absolute;
+	left: 65px;
+	top: 550px;
+}
+
+#news-button:hover {
+	background-image: url("images/NEWSICON.PNG");
+	width: 100px;
+	height: 74px;
+	position: absolute;
+	left: 65px;
+	top: 550px;
+}
+
+#news-button-active {
+	background-image: url("images/NEWSICON.PNG");
+	width: 100px;
+	height: 74px;
+	position: absolute;
+	left: 65px;
+	top: 550px;
+}
+
+#patch-button {
+	background-image: url("images/patchB.png");
+	width: 90px;
+	height: 90px;
+	position: absolute;
+	left: 265px;
+	top: 550px;
+}
+
+#patch-button:hover {
+	background-image: url("images/PATCHICON.PNG");
+	width: 90px;
+	height: 90px;
+	position: absolute;
+	left: 265px;
+	top: 550px;
+}
+
+#patch-button-active {
+	background-image: url("images/PATCHICON.PNG");
+	width: 90px;
+	height: 90px;
+	position: absolute;
+	left: 265px;
+	top: 550px;
+}
+
+#stories-button {
+	background-image: url("images/storiesB.png");
+	width: 70px;
+	height: 89px;
+	position: absolute;
+	left: 465px;
+	top: 550px;
+}
+
+#stories-button:hover {
+	background-image: url("images/STORIESICON.PNG");
+	width: 70px;
+	height: 89px;
+	position: absolute;
+	left: 465px;
+	top: 550px;
+}
+
+#stories-button-active {
+	background-image: url("images/STORIESICON.PNG");
+	width: 70px;
+	height: 89px;
+	position: absolute;
+	left: 465px;
+	top: 550px;
+}
+
+#link-button {
+	background-image: url("images/linkB.png");
+	width: 71px;
+	height: 86px;
+	position: absolute;
+	left: 665px;
+	top: 550px;
+}
+
+#link-button:hover {
+	background-image: url("images/LINKICON2.PNG");
+	width: 71px;
+	height: 86px;
+	position: absolute;
+	left: 665px;
+	top: 550px;
+}
+
+#link-button-active {
+	background-image: url("images/LINKICON2.PNG");
+	width: 71px;
+	height: 86px;
+	position: absolute;
+	left: 665px;
+	top: 550px;
+}
+
+#contact-button {
+	background-image: url("images/contactB.png");
+	width: 77px;
+	height: 100px;
+	position: absolute;
+	left: 865px;
+	top: 550px;
+}
+
+#contact-button:hover {
+	background-image: url("images/CONTACTICON.PNG");
+	width: 77px;
+	height: 100px;
+	position: absolute;
+	left: 865px;
+	top: 550px;
+	background-repeat: no-repeat;
+}
+
+#contact-button-active {
+	background-image: url("images/CONTACTICON.PNG");
+	width: 77px;
+	height: 100px;
+	position: absolute;
+	left: 865px;
+	top: 550px;
+	background-repeat: no-repeat;
+}
