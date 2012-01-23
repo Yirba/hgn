@@ -70,7 +70,7 @@ a {
 }
 
 #news-button:hover {
-	background-image: url("images/NEWSICON.PNG");
+	background-image: url("images/NEWSICON.png");
 	width: 100px;
 	height: 74px;
 	position: absolute;
@@ -79,7 +79,7 @@ a {
 }
 
 #news-button-active {
-	background-image: url("images/NEWSICON.PNG");
+	background-image: url("images/NEWSICON.png");
 	width: 100px;
 	height: 74px;
 	position: absolute;
@@ -124,7 +124,7 @@ a {
 }
 
 #stories-button:hover {
-	background-image: url("images/STORIESICON.PNG");
+	background-image: url("images/STORIESICON.png");
 	width: 70px;
 	height: 89px;
 	position: absolute;
@@ -133,7 +133,7 @@ a {
 }
 
 #stories-button-active {
-	background-image: url("images/STORIESICON.PNG");
+	background-image: url("images/STORIESICON.png");
 	width: 70px;
 	height: 89px;
 	position: absolute;
@@ -151,7 +151,7 @@ a {
 }
 
 #link-button:hover {
-	background-image: url("images/LINKICON2.PNG");
+	background-image: url("images/LINKICON2.png");
 	width: 71px;
 	height: 86px;
 	position: absolute;
@@ -160,7 +160,7 @@ a {
 }
 
 #link-button-active {
-	background-image: url("images/LINKICON2.PNG");
+	background-image: url("images/LINKICON2.png");
 	width: 71px;
 	height: 86px;
 	position: absolute;
@@ -178,7 +178,7 @@ a {
 }
 
 #contact-button:hover {
-	background-image: url("images/CONTACTICON.PNG");
+	background-image: url("images/CONTACTICON.png");
 	width: 77px;
 	height: 100px;
 	position: absolute;
@@ -188,7 +188,7 @@ a {
 }
 
 #contact-button-active {
-	background-image: url("images/CONTACTICON.PNG");
+	background-image: url("images/CONTACTICON.png");
 	width: 77px;
 	height: 100px;
 	position: absolute;
