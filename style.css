@@ -1,7 +1,11 @@
+html {
+	height: 100%;
+}
+
 body {
 	background-color: black;
 	background-image: url("images/classroomwcbB.png");
-	background-size: 1150px;
+	background-size: 110% 125%;
 	background-repeat: no-repeat;
 	background-attachment: scroll;
 	background-position: "center top";
@@ -14,10 +18,10 @@ a {
 #container {
 	color: white;
 	position: absolute;
-	left: 55px;
-	top: 95px;
-	width: 800px;
-	height: 400px;
+	left: 5%;
+	top: 12%;
+	width: 77%;
+	height: 55%;
 	overflow: auto;
 }
 
@@ -28,8 +32,8 @@ a {
 #logo {
 	color: white;
 	position: absolute;
-	left: 935px;
-	top: 60px;
+	right: 3%;
+	top: 10%;
 	text-align: center;
 }
 
@@ -38,8 +42,8 @@ a {
 	width: 84px;
 	height: 122px;
 	position: absolute;
-	left: 950px;
-	top: 200px;
+	right: 5%;
+	top: 25%;
 }
 
 #home-button:hover {
@@ -47,8 +51,8 @@ a {
 	width: 84px;
 	height: 122px;
 	position: absolute;
-	left: 950px;
-	top: 200px;
+	right: 5%;
+	top: 25%;
 }
 
 #home-button-active {
@@ -56,8 +60,8 @@ a {
 	width: 84px;
 	height: 122px;
 	position: absolute;
-	left: 950px;
-	top: 200px;
+	right: 5%;
+	top: 25%;
 }
 
 #news-button {
@@ -65,8 +69,8 @@ a {
 	width: 100px;
 	height: 74px;
 	position: absolute;
-	left: 65px;
-	top: 550px;
+	left: 5%;
+	bottom: 10%;
 }
 
 #news-button:hover {
@@ -74,8 +78,8 @@ a {
 	width: 100px;
 	height: 74px;
 	position: absolute;
-	left: 65px;
-	top: 550px;
+	left: 5%;
+	bottom: 10%;
 }
 
 #news-button-active {
@@ -83,8 +87,8 @@ a {
 	width: 100px;
 	height: 74px;
 	position: absolute;
-	left: 65px;
-	top: 550px;
+	left: 5%;
+	bottom: 10%;
 }
 
 #patch-button {
@@ -92,8 +96,8 @@ a {
 	width: 90px;
 	height: 90px;
 	position: absolute;
-	left: 265px;
-	top: 550px;
+	left: 20%;
+	bottom: 10%;
 }
 
 #patch-button:hover {
@@ -101,8 +105,8 @@ a {
 	width: 90px;
 	height: 90px;
 	position: absolute;
-	left: 265px;
-	top: 550px;
+	left: 20%;
+	bottom: 10%;
 }
 
 #patch-button-active {
@@ -110,8 +114,8 @@ a {
 	width: 90px;
 	height: 90px;
 	position: absolute;
-	left: 265px;
-	top: 550px;
+	left: 20%;
+	bottom: 10%;
 }
 
 #stories-button {
@@ -119,8 +123,8 @@ a {
 	width: 70px;
 	height: 89px;
 	position: absolute;
-	left: 465px;
-	top: 550px;
+	left: 35%;
+	bottom: 10%;
 }
 
 #stories-button:hover {
@@ -128,8 +132,8 @@ a {
 	width: 70px;
 	height: 89px;
 	position: absolute;
-	left: 465px;
-	top: 550px;
+	left: 35%;
+	bottom: 10%;
 }
 
 #stories-button-active {
@@ -137,8 +141,8 @@ a {
 	width: 70px;
 	height: 89px;
 	position: absolute;
-	left: 465px;
-	top: 550px;
+	left: 35%;
+	bottom: 10%;
 }
 
 #link-button {
@@ -146,8 +150,8 @@ a {
 	width: 71px;
 	height: 86px;
 	position: absolute;
-	left: 665px;
-	top: 550px;
+	left: 50%;
+	bottom: 10%;
 }
 
 #link-button:hover {
@@ -155,8 +159,8 @@ a {
 	width: 71px;
 	height: 86px;
 	position: absolute;
-	left: 665px;
-	top: 550px;
+	left: 50%;
+	bottom: 10%;
 }
 
 #link-button-active {
@@ -164,8 +168,8 @@ a {
 	width: 71px;
 	height: 86px;
 	position: absolute;
-	left: 665px;
-	top: 550px;
+	left: 50%;
+	bottom: 10%;
 }
 
 #contact-button {
@@ -173,8 +177,8 @@ a {
 	width: 77px;
 	height: 100px;
 	position: absolute;
-	left: 865px;
-	top: 550px;
+	left: 65%;
+	bottom: 10%;
 }
 
 #contact-button:hover {
@@ -182,8 +186,8 @@ a {
 	width: 77px;
 	height: 100px;
 	position: absolute;
-	left: 865px;
-	top: 550px;
+	left: 65%;
+	bottom: 10%;
 	background-repeat: no-repeat;
 }
 
@@ -192,7 +196,7 @@ a {
 	width: 77px;
 	height: 100px;
 	position: absolute;
-	left: 865px;
-	top: 550px;
+	left: 65%;
+	bottom: 10%;
 	background-repeat: no-repeat;
 }
