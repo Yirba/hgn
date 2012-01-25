@@ -4,11 +4,24 @@ html {
 
 body {
 	background-color: black;
-	background-image: url("images/classroomwcbB.png");
-	background-size: 110% 125%;
+	background-image: url("images/classroomB.png");
+	background-size: 100% 100%;
 	background-repeat: no-repeat;
 	background-attachment: scroll;
 	background-position: "center top";
+}
+
+#chalkboard {
+	position: absolute;
+	left: 3%;
+	top: 5%;
+	width: 79%;
+	height: 70%;
+	background-image: url("images/chalkboard.png");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	background-position: "left top";
+	z-index: -10;
 }
 
 a {
@@ -19,9 +32,9 @@ a {
 	color: white;
 	position: absolute;
 	left: 5%;
-	top: 12%;
-	width: 77%;
-	height: 55%;
+	top: 10%;
+	right: 5%;
+	bottom: 10%;
 	overflow: auto;
 }
 
