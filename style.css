@@ -15,8 +15,8 @@ body {
 	position: absolute;
 	left: 3%;
 	top: 5%;
-        bottom: 25%;
-        right: 15%;
+	bottom: 25%;
+	right: 15%;
 	background-image: url("images/chalkboard.png");
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
@@ -36,6 +36,7 @@ a {
 	right: 5%;
 	bottom: 10%;
 	overflow: auto;
+	z-index: 1000;
 }
 
 #content {
