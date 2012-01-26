@@ -6,3 +6,4 @@ Classroom 13 website. Accessible at <b>[http://yirba.github.com/hgn/](http://yir
 * Fix scrolling area in Internet Explorer
 * Use image matrix for icons
 * Optimise for mobile devices (viewport)
+* Put icons on desks
