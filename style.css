@@ -41,6 +41,7 @@ a {
 
 #content {
 	padding-right: 10px;
+	z-index: 2000;
 }
 
 #logo {
