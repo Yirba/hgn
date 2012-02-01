@@ -21,7 +21,6 @@ body {
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
 	background-position: "left top";
-	z-index: -10;
 }
 
 a {
@@ -36,12 +35,10 @@ a {
 	right: 5%;
 	bottom: 10%;
 	overflow: auto;
-	z-index: 1000;
 }
 
 #content {
 	padding-right: 10px;
-	z-index: 2000;
 }
 
 #logo {
